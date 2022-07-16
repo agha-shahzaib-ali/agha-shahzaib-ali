@@ -5,12 +5,10 @@ Hi there 👋
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...MERN Stack Projects.
-- 🌱 I’m currently learning ...JS, PHP, Python etc.
+- 🔭 I’m currently working on MERN Stack Projects.
+- 🌱 I have worked on HTML, CSS, JS, WordPress, PHP, and Python Projects.
 - 👯 I’m looking to collaborate on ...Web Design and Development Projects like WordPress Design and Development.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...any Bugs/Problems you want me to fix about your code. I'll happy to provide my services.
-- 📫 How to reach me: ...+92 337 4832234 on WhatsApp.
-- 😄 Pronouns: ...
+- 📫 How to reach me: +92 337 4832234 on WhatsApp.
 - ⚡ Fun fact: I love Visual Studio Code Editor and its Emmet Suggestions. Makes life easier for developers.
 
